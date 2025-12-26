@@ -196,22 +196,22 @@
     },
     "lf_mech_core": {
       "game_id": 41100071,
-      "icon": "",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWup/T_IconWup_025_UI.webp",
       "label": "LF Mech Core"
     },
     "mf_mech_core": {
       "game_id": 41100072,
-      "icon": "",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWup/T_IconWup_026_UI.webp",
       "label": "MF Mech Core"
     },
     "hf_mech_core": {
       "game_id": 41100073,
-      "icon": "",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWup/T_IconWup_027_UI.webp",
       "label": "HF Mech Core"
     },
     "ff_mech_core": {
       "game_id": 41100074,
-      "icon": "",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWup/T_IconWup_028_UI.webp",
       "label": "FF Mech Core"
     }
   },
@@ -643,22 +643,22 @@
     },
     "lf_carved_crystal": {
       "game_id": 43021041,
-      "icon": "",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconMout/T_IconMout_O_011_1_UI.webp",
       "label": "LF Carved Crystal"
     },
     "mf_carved_crystal": {
       "game_id": 43021042,
-      "icon": "",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconMout/T_IconMout_O_011_2_UI.webp",
       "label": "MF Carved Crystal"
     },
     "hf_carved_crystal": {
       "game_id": 43021043,
-      "icon": "",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconMout/T_IconMout_O_011_3_UI.webp",
       "label": "HF Carved Crystal"
     },
     "ff_carved_crystal": {
       "game_id": 43021044,
-      "icon": "",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconMout/T_IconMout_O_011_4_UI.webp",
       "label": "FF Carved Crystal"
     }
   }
