@@ -2,11 +2,7 @@
 
 ## Initially I only plan to update the database of this app for continuing functionality. One day I'll develop my own core logic and app (hopefully).
 
-## Below is the reminants of boxofzero's project:
-
-# [⛔ This project is NO LONGER UPDATED ⛔](https://github.com/boxofzero/cassowary/issues/36)
-
-# Cassowary
+# WuWa Planner
 
 ![Cassowary screenshot](./cassowary-screenshot.png 'Cassowary')
 
@@ -25,7 +21,7 @@
 
 ## Found bugs? Have ideas?
 
-Please create [issues](https://github.com/boxofzero/cassowary/issues).
+Please create [issues](https://github.com/ShadesByte/wuwa-planner/issues).
 
 ## Disclaimer
 
