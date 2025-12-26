@@ -313,7 +313,7 @@
     },
     "burning_judgment": {
       "game_id": 41400274,
-      "icon": "",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconMout/T_IconMout_L_022_UI.webp",
       "label": "Burning Judgment"
     }
   },
