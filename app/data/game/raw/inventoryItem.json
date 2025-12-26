@@ -176,22 +176,22 @@
     },
     "lf_exoswarm_core": {
       "game_id": 41100061,
-      "icon": "",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWup/T_IconWup_021_UI.webp",
       "label": "LF Exoswarm Core"
     },
     "mf_exoswarm_core": {
       "game_id": 41100062,
-      "icon": "",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWup/T_IconWup_022_UI.webp",
       "label": "MF Exoswarm Core"
     },
     "hf_exoswarm_core": {
       "game_id": 41100063,
-      "icon": "",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWup/T_IconWup_023_UI.webp",
       "label": "HF Exoswarm Core"
     },
     "ff_exoswarm_core": {
       "game_id": 41100064,
-      "icon": "",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWup/T_IconWup_024_UI.webp",
       "label": "FF Exoswarm Core"
     },
     "lf_mech_core": {
@@ -308,7 +308,7 @@
     },
     "suncoveters_reach": {
       "game_id": 41400264,
-      "icon": "",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconMout/T_IconMout_L_023_UI.webp",
       "label": "Suncoveter's Reach"
     },
     "burning_judgment": {
@@ -467,7 +467,7 @@
     },
     "rimewisp": {
       "game_id": 42601390,
-      "icon": "",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconC/T_IconC_067_UI.webp",
       "label": "Rimewisp"
     },
     "gemini_spore": {
@@ -623,22 +623,22 @@
     },
     "incomplete_combustor": {
       "game_id": 43021021,
-      "icon": "",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconMout/T_IconMout_O_009_1_UI.webp",
       "label": "Incomplete Combustor"
     },
     "aftertune_combustor": {
       "game_id": 43021022,
-      "icon": "",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconMout/T_IconMout_O_009_2_UI.webp",
       "label": "Aftertune Combustor"
     },
     "remnant_combustor": {
       "game_id": 43021023,
-      "icon": "",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconMout/T_IconMout_O_009_3_UI.webp",
       "label": "Remnant Combustor"
     },
     "reverb_combustor": {
       "game_id": 43021024,
-      "icon": "",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconMout/T_IconMout_O_009_4_UI.webp",
       "label": "Reverb Combustor"
     },
     "lf_carved_crystal": {
