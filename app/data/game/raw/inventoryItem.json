@@ -350,7 +350,7 @@
     },
     "curse_of_the_abyss": {
       "game_id": 41400254,
-      "icon": "https://raw.githubusercontent.com/boxofzero/ww-assets/refs/heads/main/images/inventory-items/IconMout/T_IconMout_L_021_UI.png",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconMout/T_IconMout_L_021_UI.webp",
       "label": "Curse of the Abyss"
     }
   },
@@ -462,7 +462,7 @@
     },
     "summer_flower": {
       "game_id": 42601310,
-      "icon": "https://raw.githubusercontent.com/boxofzero/ww-assets/refs/heads/main/images/inventory-items/IconC/T_IconC_060_UI.png",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconC/T_IconC_060_UI.webp",
       "label": "Summer Flower"
     },
     "rimewisp": {
@@ -472,7 +472,7 @@
     },
     "gemini_spore": {
       "game_id": 42601380,
-      "icon": "",
+      "icon": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconC/T_IconC_066_UI.webp",
       "label": "Gemini Spore"
     }
   },
