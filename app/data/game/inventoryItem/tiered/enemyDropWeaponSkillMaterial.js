@@ -259,6 +259,39 @@ export const enemy_drop_proper_data = [
 		to: undefined,
 		count: undefined,
 	},
+
+	{
+		general_name: 'exoswarm_pendant',
+		name: 'fractured_exoswarm_pendant',
+		tier: 1,
+		from: undefined,
+		to: 'worn_exoswarm_pendant',
+		count: 3,
+	},
+	{
+		general_name: 'exoswarm_pendant',
+		name: 'worn_exoswarm_pendant',
+		tier: 2,
+		from: 'fractured_exoswarm_pendant',
+		to: 'chipped_exoswarm_pendant',
+		count: 3,
+	},
+	{
+		general_name: 'exoswarm_pendant',
+		name: 'chipped_exoswarm_pendant',
+		tier: 3,
+		from: 'worn_exoswarm_pendant',
+		to: 'ff_mech_core',
+		count: 3,
+	},
+	{
+		general_name: 'exoswarm_pendant',
+		name: 'intact_exoswarm_pendant',
+		tier: 4,
+		from: 'chipped_exoswarm_pendant',
+		to: undefined,
+		count: undefined,
+	},
 ];
 
 export const tiered_enemy_drop_weapon_skill_material_index_category =
