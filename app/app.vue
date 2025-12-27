@@ -8,11 +8,11 @@
 
 <script setup>
 useHead({
-	title: 'Cassowary : Wuthering Waves Planner',
+	title: 'WuWa Planner : Wuthering Waves Planner',
 	meta: [
 		{
 			name: 'description',
-			content: 'Cassowary : Wuthering Waves Planner',
+			content: 'WuWa Planner : Wuthering Waves Planner',
 		},
 	],
 

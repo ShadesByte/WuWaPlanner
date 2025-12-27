@@ -34,7 +34,7 @@
 					size="lg"
 					color="neutral"
 				>
-					Cassowary (Pre-alpha version)
+					WuWa Planner (Pre-alpha version)
 				</UBadge>
 			</div>
 		</div>

@@ -26,7 +26,7 @@ IMPORTANT: resolveComponent needs to happen on vue files,
 let accordionTemplates = {
 	welcome: {
 		component: resolveComponent('HomeWelcome'),
-		label: 'Welcome To Cassowary!',
+		label: 'Welcome To WuWa Planner!',
 	},
 	stamina: {
 		component: resolveComponent('Stamina'),
