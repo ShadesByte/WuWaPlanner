@@ -112,7 +112,7 @@
     "display_name": "Kumokiri",
     "rarity": 5,
     "weapon_type": "broadblade",
-    "icon": "https://raw.githubusercontent.com/boxofzero/ww-assets/refs/heads/main/images/weapons/IconWeapon/T_IconWeapon21010056_UI.png",
+    "icon": "https://github.com/ryanbenson/wuthering-waves-assets/blob/master/images/weapons/Kumokiri.png?raw=true",
     "tiered_enemy_drop_weapon_skill_material": "whisperin_core",
     "tiered_forgery_weapon_skill_material": "waveworn_residue"
   },
@@ -310,7 +310,7 @@
     "display_name": "Emerald Sentence",
     "rarity": 5,
     "weapon_type": "sword",
-    "icon": "https://raw.githubusercontent.com/boxofzero/ww-assets/refs/heads/main/images/weapons/IconWeapon/T_IconWeapon21020066_UI.png",
+    "icon": "https://github.com/ryanbenson/wuthering-waves-assets/blob/master/images/weapons/EmeraldSentence.png?raw=true",
     "tiered_enemy_drop_weapon_skill_material": "howler_core",
     "tiered_forgery_weapon_skill_material": "metallic_drip"
   },
@@ -418,7 +418,7 @@
     "display_name": "Lux & Umbra",
     "rarity": 5,
     "weapon_type": "pistols",
-    "icon": "https://raw.githubusercontent.com/boxofzero/ww-assets/refs/heads/main/images/weapons/IconWeapon/T_IconWeapon21030036_UI.png",
+    "icon": "https://github.com/ryanbenson/wuthering-waves-assets/blob/master/images/weapons/LuxUmbra.png?raw=true",
     "tiered_enemy_drop_weapon_skill_material": "ring",
     "tiered_forgery_weapon_skill_material": "phlogiston"
   },
