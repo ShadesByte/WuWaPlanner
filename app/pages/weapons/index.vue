@@ -146,14 +146,14 @@ const upsertPlannedWeapon = (weaponName) => {
 		if (!weaponName.value) {
 			return;
 		}
-		toast.add({
-			title:
-				'Weapon ' +
-				weapons[weaponName.id].display_name +
-				' updated to LocalStorage',
-			icon: 'i-heroicons-check-badge',
-			duration: 2000,
-		});
+		// toast.add({
+		// 	title:
+		// 		'Weapon ' +
+		// 		weapons[weaponName.id].display_name +
+		// 		' updated to LocalStorage',
+		// 	icon: 'i-heroicons-check-badge',
+		// 	duration: 2000,
+		// });
 		materials.value = util.getNeededMaterials(weaponName.id);
 	});
 };

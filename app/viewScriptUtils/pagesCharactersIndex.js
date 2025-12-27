@@ -99,14 +99,14 @@ export function upsertPlannedCharacter() {
 		if (!characterName.value) {
 			return;
 		}
-		toast.add({
-			title:
-				'Character ' +
-				characters[characterName.value.id].display_name +
-				' updated to LocalStorage',
-			icon: 'i-heroicons-check-badge',
-			duration: 2000,
-		});
+		// toast.add({
+		// 	title:
+		// 		'Character ' +
+		// 		characters[characterName.value.id].display_name +
+		// 		' updated to LocalStorage',
+		// 	icon: 'i-heroicons-check-badge',
+		// 	duration: 2000,
+		// });
 		materials.value = getNeededMaterials(characterName.value.id);
 	});
 }

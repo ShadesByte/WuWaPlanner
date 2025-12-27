@@ -213,14 +213,14 @@ function upsertPlannedCharacter(characterName) {
 		if (!characterName) {
 			return;
 		}
-		toast.add({
-			title:
-				'Character ' +
-				characters[characterName.id].display_name +
-				' updated to LocalStorage',
-			icon: 'i-heroicons-check-badge',
-			duration: 2000,
-		});
+		// toast.add({
+		// 	title:
+		// 		'Character ' +
+		// 		characters[characterName.id].display_name +
+		// 		' updated to LocalStorage',
+		// 	icon: 'i-heroicons-check-badge',
+		// 	duration: 2000,
+		// });
 		materials.value = util.getNeededMaterials(characterName.id);
 	});
 }

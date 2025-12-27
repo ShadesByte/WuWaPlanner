@@ -115,11 +115,11 @@ const itemRef = ref(0);
 
 const updateMaterialCount = (index, count) => {
 	debouncedUpdateMaterialCount(index, count).then(() => {
-		toast.add({
-			title: 'Inventory Item ' + props.item.label + ' updated to LocalStorage',
-			icon: 'i-heroicons-check-badge',
-			duration: 2000,
-		});
+		// toast.add({
+		// 	title: 'Inventory Item ' + props.item.label + ' updated to LocalStorage',
+		// 	icon: 'i-heroicons-check-badge',
+		// 	duration: 2000,
+		// });
 		$emit('updateMaterialCount', true);
 	});
 };
